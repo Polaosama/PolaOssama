@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pola Osama</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polaossama" alt="polaossama" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 
 - 🔭 I’m currently working on **Pneumonia Detection**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pola osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pola osama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pola-osama-961a56193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pola osama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
